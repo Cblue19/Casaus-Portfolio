@@ -10,5 +10,8 @@ I took the course to learn the skills needed to improve my data visualizations. 
 ## Portfolio
 #### Assignments
 [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)
-[dataviz2](dataviz2.md)
+Assignment 2: [dataviz2](dataviz2)
+(dataviz2.md)
+Here is my assignment
+(/dataviz2.md)
 #### Final Project
