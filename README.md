@@ -14,4 +14,6 @@ Assignment 2: [dataviz2](dataviz2)
 (dataviz2.md)
 Here is my assignment
 (/dataviz2.md)
+
+(https://Cblue19.github.io/Casaus-Portfolio/dataviz2.html)
 #### Final Project
