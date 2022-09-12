@@ -7,6 +7,8 @@ New data visualization page for assignment 2
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11161068"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## USA GDP Compared to Other Reporting Countries from 1995 - 2021
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11161890"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 [Home Page]( https://cblue19.github.io/Casaus-Portfolio/)
-
-
