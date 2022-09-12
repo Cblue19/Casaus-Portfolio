@@ -10,10 +10,9 @@ I took the course to learn the skills needed to improve my data visualizations. 
 ## Portfolio
 #### Assignments
 [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)
-Assignment 2: [dataviz2](dataviz2)
+[Assignment 2](https://Cblue19.github.io/Casaus-Portfolio/dataviz2.html)
 (dataviz2.md)
 Here is my assignment
 (/dataviz2.md)
-
 (https://Cblue19.github.io/Casaus-Portfolio/dataviz2.html)
 #### Final Project
