@@ -4,7 +4,7 @@
 
 ## Part 2
 # Data Visualization 2 - A Comparison of General Government Debt
-The following grid of line charts highlights the trend of general government debt using the Debt-to-GDP ratio from countries that reported from 1995 to 2018. The OCED includes an average trend as a means for comparison beginning in 2007. The OCED average shows steady, upward growth. The use of grid of line charts here instead of a bar chart like in the first data visualization retains the ability to compare between countries but provides the benefit of seeing each individual country's Debt-to-GDP ratio over time.
+The following grid of line charts highlight the trend of general government debt using the Debt-to-GDP ratio from countries that reported from 1995 to 2018. The OCED includes an average trend as a means for comparison beginning in 2007. The OCED average shows steady, upward growth. The use of grid of line charts here instead of a bar chart like in the first data visualization retains the ability to compare between countries but provides the benefit of seeing each individual country's Debt-to-GDP ratio over time.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11161068"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
