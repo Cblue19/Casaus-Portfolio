@@ -6,13 +6,13 @@ New data visualization page for assignment 2
 
 ## Part 2
 # Data Visualization 2 - A Comparison of General Government Debt
-The following grid of line charts highlights the trend of general government debt using the GDP-to-debt ratio from countries that reported from 1995 to 2018. The OCED includes an average trend as a means for comparison beginning in 2007. The OCED average shows steady, upward growth. 
+The following grid of line charts highlights the trend of general government debt using the Debt-to-GDP ratio from countries that reported from 1995 to 2018. The OCED includes an average trend as a means for comparison beginning in 2007. The OCED average shows steady, upward growth. The use of grid of line charts here instead of a bar chart like in the first data visualization retains the ability to compare between countries but provides the benefit of seeing each individual country's Debt-to-GDP ratio over time.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11161068"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## 
 # Data Visualization 3 - North America Debt-to-GDP Ratio from 1995 - 2021 Shows a Consistent Trend Over Time 
-
+The following grid of column charts highlights the Debt-to-GDP ratio for the three countries in North America from 1995 - 2021. This data visualization differs from the second in that instead of highlighting each country's individual trend over time, the focus is on comparing the trends of the three countries over time. I chose to leave the other reporting countries in the visualization to provide a comparison for North America but made them gray to avoid drawing attention away from the main narrative. I highlighted the three countries in North America with one color from each country's flag to maintain color convention. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11161890"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
