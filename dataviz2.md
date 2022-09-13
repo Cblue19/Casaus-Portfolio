@@ -8,7 +8,6 @@ The following grid of line charts highlights the trend of general government deb
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11161068"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## 
 # Data Visualization 3 - North America Debt-to-GDP Ratio from 1995 - 2021 Shows a Consistent Trend Over Time 
 The following grid of column charts highlights the Debt-to-GDP ratio for the three countries in North America from 1995 - 2021. This data visualization differs from the second in that instead of highlighting each country's individual trend over time, the focus is on comparing the trends of the three countries over time. I chose to leave the other reporting countries in the visualization to provide a comparison for North America but made them gray to avoid drawing attention away from the main narrative. I highlighted the three countries in North America with one color from each country's flag to maintain color convention. 
 
