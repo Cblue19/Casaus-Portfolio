@@ -10,4 +10,5 @@ I took the course to learn the skills needed to improve my data visualizations. 
 ## Portfolio
 #### Assignments
 [Assignment 2](https://Cblue19.github.io/Casaus-Portfolio/dataviz2.html)
+[In-Class Activity] (https://Cblue19.github.io/Casaus-Portfolio/In-Class%20Tableau%20Activity.html)
 #### Final Project
