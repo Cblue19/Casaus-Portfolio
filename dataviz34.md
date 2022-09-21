@@ -2,9 +2,10 @@
 [Home Page]( https://cblue19.github.io/Casaus-Portfolio/)
 
 ## Critique of the Original Table
-During the critique of the original table 
+During the critique of the original table, I had two main takeaways. First, I thought the information could be better relayed as a bar or column chart. I didn't find the table to be the most effective way to communicate the story of the data.  To understand the story, the viewer has to take time to understand how the numbers are changing in each column because the trends in spending are not easily perceived in this format. Since the story here is about both spending trends over time and comparing state vs federal spending, this needs to be captured by the visualization. Second, the table lacked a title which would be very helpful in helping the audience piece together the story faster. 
+
 ## Initial Sketch:
-My initial thought was to approach this with a column chart grouped by federal and state spending with a seperate color for "State Funding Used Instead of Federal" to bring extra attention to it. I grouped the 3 categories of federal spending in blue to be consistent with the color assocation of the U.S. federal government and red, white, and blue. I also grouped the 3 categories of state spending in orange to be consistent with Tennessee's color assocation. I used red in my sketch for "State Funding Used into of Federal" to call attention to it - like a red flag. 
+My initial thought was to approach this with a column chart grouped by federal and state spending with a seperate color for "State Funding Used Instead of Federal" to bring extra attention to it. I wanted to group the information since the table utilized this format, and the main narrative focuses on a comparison of these two types of funding. Additionally, since the table contained 7 different columns, it  felt necessary to group the columns to simplify the information by grouping. I grouped the 3 categories of federal spending in blue to be consistent with the color assocation of the U.S. federal government and red, white, and blue. I also grouped the 3 categories of state spending in orange to be consistent with Tennessee's color assocation. I used red in my sketch for "State Funding Used into of Federal" to call attention to it - like a red flag. 
 ![Assignment3Sketch](https://user-images.githubusercontent.com/112444509/191402900-ad54eb28-6b53-451e-981d-580016ffa840.jpg)
 
 ## Feedback on Sketch
@@ -15,6 +16,7 @@ Student, mid 20s
 Both people I interviewed suggested using shades of blue and orange to make the distinction between to the different categories within groups more clear. They also both agreed that "State Funding Used Instead of Federal" should be organge not red as the addition of the extra color made it intially unclear it was about state spending. Additionally, one person suggested using a bar chart because the horizontal orientation would make changes in the individual categories easier to compare over time. 
 
 ## First Visualization:
+I used this feedback to swtich the data visualization type to a bar chart. I felt this was especially benefical in making comparisons since the categories were stacked instead of spread out across the visualizaiton like in the column chart. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11229842"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Final Visualization
