@@ -16,5 +16,5 @@ I took the course to learn the skills needed to improve my data visualizations. 
 [In-Class Tableau Activity](https://Cblue19.github.io/Casaus-Portfolio/In-Class%20Tableau%20Activity.html)
 
 #### Final Project
-[Part 1]
+[Part 1] (https://Cblue19.github.io/Casaus-Portfolio/Part1.html)
 
