@@ -14,3 +14,5 @@ For my final project, I want to tell a story about childhood food insecurity in 
 
 ## Method and Medium
   For my final project, I plan to utilize Shorthand.
+
+[Home Page]( https://cblue19.github.io/Casaus-Portfolio/)
