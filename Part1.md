@@ -5,9 +5,10 @@ I plan to open my presentation with an overview of what food insecurity is and h
 
 ## Initial Sketches 
 
-In the section about the amount of meals provided by federally funded childhood nutrition programs, I plan to utilize a bar chart to highlight how many meals are provided annually through each porgram. Additionally, I plan to use a map per program with a blue gradient to highlight which states provided the most meals. 
-
-The map will look similar to this with pop-up boxes that provide a count of meals served. The title of the map will highlight which states or regions have the highest amount of meals served. 
+In the section about the amount of meals provided by federally funded childhood nutrition programs, I plan to utilize a column chart to highlight how many meals are provided annually through each porgram. Additionally, I plan to use a map per program with a blue gradient to highlight which states provided the most meals. 
+The column chart will look similar to the dataviz below with pop-up boxes that provide a count of meals served. Each column will represent a meal served either as a school breakfast, school lunch, or a Summer Food Service Program meal. Data from multiple years will be used to show trends over time. Additionally, I may make a second similar visualization with the amount of money used to fund each program.
+<div class="flourish-embed flourish-chart" data-src="visualisation/11307415"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+The map will look similar to the dataviz below with pop-up boxes that provide a count of meals served. The title of the map will highlight which states or regions have the highest amount of meals served. 
 <div class="flourish-embed flourish-map" data-src="visualisation/11307364"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## The Data
