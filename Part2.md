@@ -25,7 +25,7 @@ My call to action for my audience is to donate and support non-profits that lobb
 ## User Research and Interviews
 a. My target audience is people who have kids or are concerned with the welfare of kids in America as well as people who want to be advocates for the SFSP.
 b. I used my target audience to inform who I selected to interview by picking two parents and one person who has worked for the SFSP before/works in food security. 
-Who I interviewed: Adult, early 60s; Adult, late 50s; Student, mid 20s
+Who I interviewed: Adult, early 40s; Adult, late 30s; Student, mid 20s
 c. Q1: After reading through my set-up, what do anticpate the conflict to be?
 Q2: Do you find the set-up, conflict, and resolution to be connected well?
 Q3: What is the main idea you gather from each data visualization?
