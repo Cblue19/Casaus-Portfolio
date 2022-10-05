@@ -1,8 +1,8 @@
 # Final Project Part II
-
+All data used for my visualizaitons is from https://www.fns.usda.gov/pd/child-nutrition-tables.
 ## Wireframes and Storyboards
 ### Set Up
-I want to open my presentation with an overview of food insecurity among children in the United States. I plan to have an image with the statistic that 9 million children are food insecure in the U.S. This will be followed by a defintion of food insecurity as well as the different degrees of food insecurity the USDA defines. I then plan to talk about how the federally funded national school breakfast and lunch program provides two guaranteed meals for students that attend public schools during the academic year. This program is utilized at high rates across the entire country. The following visualizaitons will be used:
+I want to open my presentation with an overview of food insecurity among children in the United States. I plan to have an image with the statistic that 9 million children are food insecure in the U.S. (No Kid Hungry: https://www.nokidhungry.org/blog/how-many-kids-united-states-live-hunger) This will be followed by a defintion of food insecurity as well as the different degrees of food insecurity the USDA defines. I then plan to talk about how the federally funded national school breakfast and lunch program provides two guaranteed meals for students that attend public schools during the academic year. This program is utilized at high rates across the entire country. The following visualizaitons will be used:
 <div class="flourish-embed flourish-map" data-src="visualisation/11351395"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-map" data-src="visualisation/11351091"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/11351175"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
