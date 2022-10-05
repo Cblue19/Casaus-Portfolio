@@ -1,6 +1,12 @@
 # Final Project Part II
 
 ## Set Up
-I want to open my presentation with an overview of food insecurity among children in the United States. I plan to have an image with the statistic that 9 million children are food insecure in the U.S.
-I then plan to talk about how the federally funded national school breakfast and lunch program provides two guaranteed meals for students that attend public schools during the academic year.
+I want to open my presentation with an overview of food insecurity among children in the United States. I plan to have an image with the statistic that 9 million children are food insecure in the U.S. This will be followed by a defintion of food insecurity as well as the different degrees of food insecurity the USDA defines. I then plan to talk about how the federally funded national school breakfast and lunch program provides two guaranteed meals for students that attend public schools during the academic year. The following visualizaitons will be used:
+<div class="flourish-embed flourish-map" data-src="visualisation/11351395"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-map" data-src="visualisation/11351091"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+However, the breakfast and lunch program only provide reliable meals when school is in session. That means during the summer many food insecure children 
+
+## Conflict
+
+## Resolution
 
