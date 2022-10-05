@@ -23,5 +23,17 @@ It is essential to address the needs of the SFSP and ensure it has adequate fund
 My call to action for my audience is to donate and support non-profits that lobby Congress for benefical changes and funding for the SFSP. At this point in the presentation, I'll provide information about a few different organizations, including No Kid Hungry, the organization I worked for through my local food bank. I plan to share a short story about how I got to lobby on Capitol Hill with No Kid Hungry.
 
 ## User Research and Interviews
+a. My target audience is people who have kids or are concerned with the welfare of kids in America as well as people who want to be advocates for the SFSP.
+b. I used my target audience to inform who I selected to interview by picking two parents and one person who has worked for the SFSP before/works in food security. 
+Who I interviewed:
+1. Adult, early 60s
+2. Adult, late 50s
+3. Student, mid 20s
+c. Q1: After reading through my set-up, what do anticpate the conflict to be?
+Q2: Do you find the set-up, conflict, and resolution to be connected well?
+Q3: What is the main idea you gather from each data visualization?
+Q4: Do you think each data visualization is relevant to include?
+Q5: Is the resolution satisfying? 
+d. When I presented my storyboard, I included the hexagon maps featured above as well as a standard map with the same data. All three of the people I interviewed (as well as my classmates) agreed that the hexagon map displayed the data better because it allowed the audience to focus on the trend since the state sizes were uniform. 
 
 [Home Page]( https://cblue19.github.io/Casaus-Portfolio/)
