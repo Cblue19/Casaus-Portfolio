@@ -20,7 +20,7 @@ Then I plan to transition into a discussion about the other essential piece of t
 It is essential to address the needs of the SFSP and ensure it has adequate funding as the data shows many kids throughout the country depend on this program.
 
 ### Resolution
-My call to action for my audience is to 
+My call to action for my audience is to donate and support non-profits that lobby Congress for benefical changes and funding for the SFSP. At this point in the presentation, I'll provide information about a few different organizations, including No Kid Hungry, the organization I worked for through my local food bank. I plan to share a short story about how I got to lobby on Capitol Hill with No Kid Hungry.
 
 ## User Research and Interviews
 
