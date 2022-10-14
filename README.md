@@ -18,4 +18,5 @@ I took the course to learn the skills needed to improve my data visualizations. 
 #### Final Project
 [Part 1](https://Cblue19.github.io/Casaus-Portfolio/Part1.html)
 [Part 2](https://Cblue19.github.io/Casaus-Portfolio/Part2.html)
+[Part 3](https://Cblue19.github.io/Casaus-Portfolio/Part3.html)
 
