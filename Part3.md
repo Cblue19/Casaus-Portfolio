@@ -1,6 +1,6 @@
 # Final Project Part 3
 ## The Audience
-Originally, my target audience was limited to people living in America who have children or are concerned with childhood food insecurity. Overall, the goal was to target people who want to be advocates for the SFSP. I narrowed in on the goal and included information for organizations that are eligible and interested in becoming a program operator. I decided to add the information for organizations based on feedback from a fellow Youth Ambassador from my experience working with the SFSP. She felt that while the information was applicable to my intended audience, I was missing an opportunity to target organizations that can make an even bigger difference by administering the program. 
+Originally, my target audience was limited to people living in America who have children or are concerned with childhood food insecurity. Overall, the goal was to target people who want to be advocates for the SFSP. I narrowed in on this goal and included information for organizations that are eligible and interested in becoming a program operator. I decided to add the information for organizations based on feedback from a fellow Youth Ambassador from my experience working with the SFSP. She felt that while the information was applicable to my intended audience, I was missing an opportunity to target organizations that can make an even bigger difference by administering the program. 
 Additionally, based on feedback from interviews, my professor, and the class TA, I centered my narrative around the story that stood out to me from when I was working with the program. This helped to engage my audience because the information applied to everyone I was targeting.
 I tried to make my call to action applicable to my target audience by providing a variety of ways to engage, either directly or in-directly. For example, I included a link to find free meals on No Kid Hungry's website for people who may have children or know a child experiencing food insecurity.
 
@@ -12,6 +12,15 @@ the National School Breakfast and Lunch Program. I used red to stand out and kep
 
 ## Shorthand Presentation
 [My Final Data Story on Shorthand](https://carnegiemellon.shorthandstories.com/advocating-for-the-summer-food-service-program/index.html)
+
+## Sources 
+All of my data is from https://www.fns.usda.gov/pd/child-nutrition-tables
+
+I also used:
+1 No Kid Hungry, “How Many Kids in the United States Live With Hunger?,” No Kid Hungry, accessed October 12, 2022, https://www.nokidhungry.org/blog/how-many-kids-united-states-live-hunger.
+2 Masoomeh Hajizadeh Oghaz, Falah Rashoka, and Megan Kelley, “Barriers to Summer Food Service Program (SFSP) Implementation Before and After COVID-19: A Qualitative, Collective Case Study,” Current Developments in Nutrition 6, no. Supplement_1 (June 1, 2022): 113, https://doi.org/10.1093/cdn/nzac051.029.
+
+Lastly, I used images from Unsplash and from my time working with the SFSP. Additionally, I used the No Kid Hungry logo and Feeding America logo paired with a link to the webpage for donation in my call to action.
 
 [Part 1](https://Cblue19.github.io/Casaus-Portfolio/Part1.html)
 [Part 2](https://Cblue19.github.io/Casaus-Portfolio/Part2.html)
