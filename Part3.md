@@ -17,7 +17,9 @@ the National School Breakfast and Lunch Program. I used red to stand out and kep
 All of my data is from https://www.fns.usda.gov/pd/child-nutrition-tables
 
 I also used:
+
 1 No Kid Hungry, “How Many Kids in the United States Live With Hunger?,” No Kid Hungry, accessed October 12, 2022, https://www.nokidhungry.org/blog/how-many-kids-united-states-live-hunger.
+
 2 Masoomeh Hajizadeh Oghaz, Falah Rashoka, and Megan Kelley, “Barriers to Summer Food Service Program (SFSP) Implementation Before and After COVID-19: A Qualitative, Collective Case Study,” Current Developments in Nutrition 6, no. Supplement_1 (June 1, 2022): 113, https://doi.org/10.1093/cdn/nzac051.029.
 
 Lastly, I used images from Unsplash and from my time working with the SFSP. Additionally, I used the No Kid Hungry logo and Feeding America logo paired with a link to the webpage for donation in my call to action.
