@@ -27,4 +27,8 @@ In the section about nutrition, I plan to use a stacked bar chart to show the pr
 ## Method and Medium
   For my final project, I plan to utilize Shorthand. Similar to the demo presented in class, I plan to use pictures during the sections in which I want to provide context and describe the issue of childhood food insecurity or federally funded child nutrition programs. Data visualizations will be used in between the content sections to reinforce the ideas introduced in the content sections.
 
+
+
+[Part 2](https://Cblue19.github.io/Casaus-Portfolio/Part2.html)
+[Part 3](https://Cblue19.github.io/Casaus-Portfolio/Part3.html)
 [Home Page]( https://cblue19.github.io/Casaus-Portfolio/)
