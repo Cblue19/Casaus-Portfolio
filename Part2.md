@@ -31,9 +31,13 @@ Who I interviewed: Adult, early 40s; Adult, late 30s; Student, mid 20s
 
 c. 
 Q1: After reading through my set-up, what do anticpate the conflict to be?
+
 Q2: Do you find the set-up, conflict, and resolution to be connected well?
+
 Q3: What is the main idea you gather from each data visualization?
+
 Q4: Do you think each data visualization is relevant to include?
+
 Q5: Is the resolution satisfying? 
 
 d. Question one was met with promising responses, but I gathered that I should emphasis the role COVID-19 played in the increased need for the program in the set-up more. My audience agreed I could use more descriptive titles for my data visualizations as they were originally just about the count instead of the trend. When I presented my storyboard, I included the hexagon maps featured above as well as a standard map with the same data. All three of the people I interviewed (as well as my classmates) agreed that the hexagon map displayed the data better because it allowed the audience to focus on the trend since the state sizes were uniform. My audience also gave me feedback about the color palette I used in my data visualizations for the the National Breakfast and Lunch Program as they felt the similarities of in color made the different types look related instead of emphasizing differences.
