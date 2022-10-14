@@ -22,7 +22,7 @@ I also used:
 
 2 Masoomeh Hajizadeh Oghaz, Falah Rashoka, and Megan Kelley, “Barriers to Summer Food Service Program (SFSP) Implementation Before and After COVID-19: A Qualitative, Collective Case Study,” Current Developments in Nutrition 6, no. Supplement_1 (June 1, 2022): 113, https://doi.org/10.1093/cdn/nzac051.029.
 
-Lastly, I used images from Unsplash and from my time working with the SFSP. Additionally, I used the No Kid Hungry logo and Feeding America logo paired with a link to the webpage for donation in my call to action.
+Lastly, I used images from Unsplash and photos from my time working with the SFSP. Additionally, I used the No Kid Hungry logo and Feeding America logo paired with a link to the webpage for donation in my call to action.
 
 [Part 1](https://Cblue19.github.io/Casaus-Portfolio/Part1.html)
 [Part 2](https://Cblue19.github.io/Casaus-Portfolio/Part2.html)
